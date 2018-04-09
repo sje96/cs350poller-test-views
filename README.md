@@ -9,9 +9,9 @@ A simple django application to be used as starter code for working on django tut
 2. __clone__ your forked repo to your local working directory
 3. cd to repository/project root
 4. create a virtual environment for this project
-5. Run: pip install -r requirements.txt
-6. Setup the django app: python manage.py migrate
-7. Run the test server: python manage.py runserver
+5. Run: `pip install -r requirements.txt`
+6. Setup the django app: `python manage.py migrate`
+7. Run the test server: `python manage.py runserver`
 
 # Lab 9 Instructions
 Work through remaining section in part 5 (testing views) and complete part 6.
