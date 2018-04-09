@@ -9,7 +9,8 @@ A simple django application to be used as starter code for working on django tut
 4. create a virtual environment for this project
 5. Run: `pip install -r requirements.txt`
 6. Setup the django app: `python manage.py migrate`
-7. Run the test server: `python manage.py runserver`
+7. (__NEW__) ==> Load the database with sample data containing 1 poll: `python manage.py loaddata polls_testdata`
+8. Run the test server: `python manage.py runserver`
 
 # Lab 9 Instructions
 Work through remaining section in part 5 (testing views) and complete part 6.
